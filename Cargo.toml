@@ -1,0 +1,8 @@
+[package]
+name = "async_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+futures-lite = "2.3.0"
+smol = "2.0.0"
